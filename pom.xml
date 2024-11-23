@@ -525,7 +525,7 @@
 			<id>maven-releases</id>
 			<name>maven-releases</name>
 			<url>http://52.66.96.218:8081/repository/maven-releases</url>
-			<repository>
+		 </repository>
 				<repository>
 					<id>repository.spring.milestone</id>
 					<name>Spring Milestone Repository</name>
