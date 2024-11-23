@@ -88,7 +88,7 @@
     <repository>
       <id>nexus-releases</id>
       <name>Nexus Release Repository</name>
-      <url>http://http://52.66.96.218:8081/repository/nexus-releases/</url>   
+      <url>http://52.66.96.218:8081/repository/maven-releases/</url>   
     </repository>
 
     <snapshotRepository>
@@ -566,7 +566,7 @@
           <repository>
       <id>nexus-releases</id>
       <name>Nexus Release Repository</name>
-      <url>http://http://52.66.96.218:8081/repository/nexus-releases/</url>  
+      <url>http://52.66.96.218:8081/repository/maven-releases/</url>  
          <repository>
 
 
