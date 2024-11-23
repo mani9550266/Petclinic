@@ -89,13 +89,12 @@
       <id>nexus-releases</id>
       <name>Nexus Release Repository</name>
       <url>http://http://52.66.96.218:8081/repository/nexus-releases/</url>   
-
     </repository>
+
     <snapshotRepository>
       <id>nexus-snapshots</id>
       <name>Nexus Snapshot Repository</name>
       <url>http://your-nexus-server-url/repository/nexus-snapshots/</url>   
-
     </snapshotRepository>
   </distributionManagement>
 
