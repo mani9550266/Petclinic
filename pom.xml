@@ -88,12 +88,12 @@
         <repository>
            <id>maven-releases</id>
            <name>maven-releases</name>
-           <url>http://52.66.96.218:8081/repository/maven-releases/</url>   
+           <url>http://52.66.96.218:8081/repository/maven-releases</url>   
         </repository>
         <snapshotRepository>
           <id>nexus-snapshots</id>
           <name>Nexus Snapshot Repository</name>
-          <url>http://your-nexus-server-url/repository/nexus-snapshots/</url>   
+          <url>http://your-nexus-server-url/repository/nexus-snapshots</url>   
         </snapshotRepository>
     </distributionManagement>
 
@@ -565,7 +565,7 @@
           <repository>
             <id>maven-releases</id>
             <name>maven-releases</name>
-            <url>http://52.66.96.218:8081/repository/maven-releases/</url>  
+            <url>http://52.66.96.218:8081/repository/maven-releases</url>  
          <repository>
 
 
